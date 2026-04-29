@@ -1,3 +1,5 @@
+For the rendered version with images, see: https://orq.ai/blog/prompt-optimization-to-improve-model-performance
+
 # Prompt Optimization: How to Make Smaller Models Punch Above Their Weight
 
 ## TL;DR  
